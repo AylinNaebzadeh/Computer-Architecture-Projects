@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/CA/HW3/Q4/HW3_Q4/ALU_isim_beh.exe" -prj "D:/CA/HW3/Q4/HW3_Q4/ALU_beh.prj" "work.ALU" 

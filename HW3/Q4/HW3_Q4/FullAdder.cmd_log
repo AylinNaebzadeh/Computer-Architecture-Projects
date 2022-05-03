@@ -1,2 +1,0 @@
-xst -intstyle ise -ifn "D:/CA/HW3/Q4/HW3_Q4/FullAdder.xst" -ofn "D:/CA/HW3/Q4/HW3_Q4/FullAdder.syr" 
-vhdtdtfi -prj HW3_Q4 -o D:/CA/HW3/Q4/HW3_Q4/FullAdder.vhi -module FullAdder -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work FullAdder.vhd 
