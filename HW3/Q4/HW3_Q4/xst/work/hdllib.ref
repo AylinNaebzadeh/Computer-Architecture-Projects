@@ -1,0 +1,8 @@
+EN fulladder NULL D:/CA/HW3/Q4/HW3_Q4/FullAdder.vhd sub00/vhpl06 1651570660
+EN shiftrightcomponent NULL D:/CA/HW3/Q4/HW3_Q4/ShiftRightComponent.vhd sub00/vhpl04 1651570262
+AR shiftleftcomponent behavioral D:/CA/HW3/Q4/HW3_Q4/ShiftLeftComponent.vhd sub00/vhpl03 1651569951
+EN shiftleftcomponent NULL D:/CA/HW3/Q4/HW3_Q4/ShiftLeftComponent.vhd sub00/vhpl02 1651569950
+AR alu behavioral D:/CA/HW3/Q4/HW3_Q4/ALU.vhd sub00/vhpl01 1651564081
+AR fulladder behavioral D:/CA/HW3/Q4/HW3_Q4/FullAdder.vhd sub00/vhpl07 1651570661
+EN alu NULL D:/CA/HW3/Q4/HW3_Q4/ALU.vhd sub00/vhpl00 1651564080
+AR shiftrightcomponent behavioral D:/CA/HW3/Q4/HW3_Q4/ShiftRightComponent.vhd sub00/vhpl05 1651570263
