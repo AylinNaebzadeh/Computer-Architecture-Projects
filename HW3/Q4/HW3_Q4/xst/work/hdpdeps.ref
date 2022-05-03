@@ -1,0 +1,23 @@
+V3 12
+FL D:/CA/HW3/Q4/HW3_Q4/ALU.vhd 2022/05/03.12:17:55 P.20131013
+EN work/ALU 1651564080 FL D:/CA/HW3/Q4/HW3_Q4/ALU.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1651564081 \
+      FL D:/CA/HW3/Q4/HW3_Q4/ALU.vhd EN work/ALU 1651564080
+FL D:/CA/HW3/Q4/HW3_Q4/FullAdder.vhd 2022/05/03.14:07:26 P.20131013
+EN work/FullAdder 1651570660 FL D:/CA/HW3/Q4/HW3_Q4/FullAdder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FullAdder/Behavioral 1651570661 \
+      FL D:/CA/HW3/Q4/HW3_Q4/FullAdder.vhd EN work/FullAdder 1651570660
+FL D:/CA/HW3/Q4/HW3_Q4/ShiftLeftComponent.vhd 2022/05/03.13:55:38 P.20131013
+EN work/ShiftLeftComponent 1651569950 \
+      FL D:/CA/HW3/Q4/HW3_Q4/ShiftLeftComponent.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ShiftLeftComponent/Behavioral 1651569951 \
+      FL D:/CA/HW3/Q4/HW3_Q4/ShiftLeftComponent.vhd EN work/ShiftLeftComponent 1651569950
+FL D:/CA/HW3/Q4/HW3_Q4/ShiftRightComponent.vhd 2022/05/03.14:00:52 P.20131013
+EN work/ShiftRightComponent 1651570262 \
+      FL D:/CA/HW3/Q4/HW3_Q4/ShiftRightComponent.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ShiftRightComponent/Behavioral 1651570263 \
+      FL D:/CA/HW3/Q4/HW3_Q4/ShiftRightComponent.vhd EN work/ShiftRightComponent 1651570262
