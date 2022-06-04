@@ -44,7 +44,7 @@ begin
 			for i in 2 to 100 loop 
 				if primes(i) = '1' then
 					for ii in i to 100  loop
-						if i * ii <  to_integer(unsigned(input)) then
+						if i * ii <  100 then
 							primes(i * ii) <= '0';
 						else
 							exit;
